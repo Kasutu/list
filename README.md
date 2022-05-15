@@ -7,4 +7,5 @@
 	- It would be a linked list, beacause the zombies can be deleted in the linked list when they are dead, so that my pc memory wont fill up with nulls.
 
 2.5. Would your reasoning be the same if there's a game mode where the number of zombies have no limit, and you have to defend/survive for as long as you can?
+	
 	- yes, because the machine can save tons of resouurces.
